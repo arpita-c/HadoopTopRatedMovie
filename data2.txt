@@ -1,0 +1,5 @@
+12000	7.6	Eighth Grade	2018
+13000	8.2	Logan	2017
+5000	7	Thor	2017
+6000	8	Dunkrik	2017
+20000	8.4	Arrival	2016

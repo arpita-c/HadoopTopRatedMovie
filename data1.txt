@@ -1,0 +1,6 @@
+50000	9.6	Black Panther	2018
+12000	9	Incredibles2	2018
+5000	7	Leave No Trace	2018
+11000	8	Lady Bird	2017
+20000	8.4	Get Out	2017
+9000	7.5	Coco	2017
